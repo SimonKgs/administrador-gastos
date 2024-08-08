@@ -1,8 +1,6 @@
-# Vue 3 + Vite
-
 # Administrador de gastos
 
-**Administrador de gastos** Es una aplicación web creada con vue + vite para llevar un control de presupuesto y gastos.
+**Administrador de gastos** Es una aplicación web creada con Vue 3 + vite para llevar un control de presupuesto y gastos.
 
 ## Instalación
 
